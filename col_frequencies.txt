@@ -1,0 +1,442 @@
+
+################################################################################
+Column: SourceName
+################################################################################
+Proteometools                            1460
+Sample 1                                 1094
+Sample 2                                 961
+Sample 3                                 940
+Sample 5                                 923
+Sample 4                                 920
+Sample 6                                 917
+Sample 7                                 839
+Super SILAC Reference                    764
+Sample 8                                 666
+Sample 10                                627
+Sample 9                                 618
+V287                                     360
+PXD012131-Sample-1                       326
+Sample 11                                318
+Sample 12                                289
+Sample 13                                264
+Sample 14                                262
+Sample 15                                256
+Sample 16                                256
+
+################################################################################
+Column: Organism
+################################################################################
+Homo sapiens                             24870
+homo sapiens                             7888
+Mus musculus                             1546
+plasmodium falciparum                    866
+Anaerostipes caccae                      90
+Bacteroides thetaiotaomicron             90
+Bifidobacterium longum                   90
+Blautia producta                         90
+Clostridium butyricum                    90
+clostridium                              90
+Escherichia coli K-12                    90
+lactobacillus                            90
+Chlorocebus sabaeus                      84
+Haloferax volcanii DS2                   78
+Saccharomyces cerevisiae                 73
+Escherichia coli                         72
+mus musculus                             44
+Oryza sativa                             24
+feces metagenome                         15
+
+################################################################################
+Column: AssayName
+################################################################################
+run 1                                    261
+run 7                                    260
+run 2                                    257
+run 3                                    257
+run 4                                    252
+run 5                                    251
+run 6                                    251
+run 8                                    245
+run 9                                    241
+run 10                                   240
+run 11                                   237
+run 12                                   229
+run 13                                   226
+run 14                                   223
+run 15                                   212
+run 16                                   207
+run 17                                   205
+run 18                                   204
+run 19                                   122
+run 20                                   122
+
+################################################################################
+Column: comment[data file]
+################################################################################
+anterior_cingulate_gyrus_batch_1.raw     168
+anterior_cingulate_gyrus_batch_2.raw     168
+anterior_cingulate_gyrus_batch_3.raw     168
+anterior_cingulate_gyrus_batch_4.raw     168
+anterior_cingulate_gyrus_batch_5.raw     168
+frontal_cortex_batch _1.raw              168
+frontal_cortex_batch _2.raw              168
+frontal_cortex_batch _3.raw              168
+frontal_cortex_batch _4.raw              168
+frontal_cortex_batch _5.raw              167
+d5_48_hTT_I.raw                          15
+MFA380.raw                               11
+MFA381.raw                               11
+MFA382.raw                               11
+MFA383.raw                               11
+MFA384.raw                               11
+MFA385.raw                               11
+MFA386.raw                               11
+MFA387.raw                               11
+MFA388.raw                               11
+
+################################################################################
+Column: Label
+################################################################################
+AC=MS:1002038;NT=label free sample       14796
+TMT126                                   1861
+TMT131                                   1801
+NT=metabolic label;AC=PRIDE:0000597      1477
+NT=label free sample;AC=MS:1002038       1440
+TMT127                                   1345
+TMT128                                   1345
+TMT129                                   1345
+TMT130                                   1297
+SILAC heavy                              931
+NT=label free sample                     790
+TMT127N                                  747
+TMT128C                                  747
+TMT128N                                  747
+TMT129C                                  747
+TMT129N                                  747
+TMT130C                                  747
+TMT130N                                  747
+TMT127C                                  746
+Unlabeled sample                         582
+
+################################################################################
+Column: Instrument
+################################################################################
+NT=Q Exactive;AC=MS:1001911              4855
+NT=Q Exactive Plus;AC=MS:1001911         4424
+AC=MS:1001742;NT=LTQ Orbitrap Velos      3976
+AC=MS:1002523;NT=Q Exactive HF           2994
+AC=MS:1001910;NT=LTQ Orbitrap Elite      2938
+AC=MS:1002634;NT=Q Exactive Plus         1926
+AC=MS:1000639;NT=Orbitrap Fusion         1687
+NT=Q Exactive HF;AC=MS:1002523           1587
+NT=Orbitrap Fusion Lumos;AC=MS:1002731   1460
+Q Exactive Plus                          1346
+AC=MS:1002732;NT=Orbitrap Fusion Lumos   1318
+AC=MS:1002523; NT=Q Exactive HF          1290
+AC=MS:1001911;NT=Q Exactive              1148
+NT=Q Exactive Plus;AC=MS:1002634         1107
+NT=LTQ Orbitrap;AC=MS:1000449            1016
+LTQ Orbitrap XL                          528
+NT=Orbitrap Fusion Lumos                 480
+NT=Orbitrap Fusion Lumos;AC=MS:1002732   431
+NT=LTQ Orbitrap Velos;AC=MS:1001742      351
+NT=LTQ Orbitrap Elite;AC=MS:1001910      246
+
+################################################################################
+Column: CleavageAgent
+################################################################################
+AC=MS:1001251;NT=Trypsin                 19569
+NT=Trypsin;AC=MS:1001251                 10192
+AC=MS:1001309;NT=Lys-C                   2353
+AC=MS:1001313;NT=Trypsin/P               1887
+NT=unspecific cleavage;AC=MS:1001956     1248
+NT=Trypsin/P;AC=MS:1001313               270
+NT=Trypsin                               207
+NT=Lys-C;AC=MS:1001309                   105
+AC=MS:1001915;NT=leukocyte elastase      90
+AC=MS:1001306;NT=Chymotrypsin            72
+NT=trypsin/P;AC=MS:1001313               67
+AC=MS:1001314;NT=V8-DE                   40
+NT=Asp-N;AC=MS:1001304                   36
+NT=Arg-C;AC=MS:1001303                   36
+NT=Glutamyl endopeptidase;AC=MS:1001917  36
+not applicable                           2
+AC=MS:1001344;NT=Lys-C                   1
+AC=MS:1001339;NT=Lys-C                   1
+AC=MS:1001334;NT=Lys-C                   1
+AC=MS:1001329;NT=Lys-C                   1
+
+################################################################################
+Column: FractionIdentifier
+################################################################################
+1                                        12262
+3                                        1576
+4                                        1541
+2                                        1493
+5                                        1445
+6                                        1311
+8                                        987
+7                                        948
+11                                       825
+10                                       822
+9                                        819
+12                                       814
+13                                       698
+14                                       692
+15                                       690
+17                                       587
+18                                       586
+16                                       583
+19                                       492
+20                                       482
+
+################################################################################
+Column: Modification
+################################################################################
+NT=Carbamidomethyl;AC=UNIMOD:4;TA=C;MT=Fixed 18007
+NT=Carbamidomethyl;TA=C;MT=fixed;AC=UNIMOD:4 3989
+NT=Oxidation;TA=M;AC=UNIMOD:35;MT=variable 3600
+NT=Oxidation;MT=variable;TA=M;AC=UNIMOD:35 2688
+not available                            1964
+NT=Carbamidomethyl;AC=UNIMOD:4; MT=Fixed; TA=C 1346
+NT=Oxidation;MT=Variable;TA=M;AC=UNIMOD:35 1146
+NT=Carbamidomethyl;TA=C;AC=UNIMOD:4;MT=fixed 854
+NT=TMT6plex;PP=Any N-term;AC=UNIMOD:737;MT=fixed 480
+NT=Acetyl;AC=UNIMOD:1;PP=Protein N-term;MT=Fixed 348
+NT=Carbamidomethyl; MT=fixed; PP=Anywhere;AC=Unimod:4; TA=E 311
+AC=UNIMOD:35;NT=Oxidation;MT=Variable;TA=M 280
+NT=oxidation;MT=variable;TA=M;AC=UNIMOD:35 252
+NT=Acetyl;AC=UNIMOD:1;PP=Protein N-term;MT=variable 228
+NT=Carbamidomethyl;AC=Unimod:4;MT=Fixed;PP=Anywhere;TA=C 142
+NT=Oxidation;MT=fixed;TA=M;AC=UNIMOD:35  116
+NT=Carbamidomethyl;MT=fixed;AC=UNIMOD:4  111
+NT=Oxidation;MT=variable;PP=Anywhere;AC=Unimod:35;TA=M;MM=15 72
+AC=UNIMOD:35;NT=Oxidation;TA=M;MT=Variable 69
+NT=Carbamidomethyl; MT=fixed; PP=Anywhere;AC=Unimod:4; TA=C; MM= 57.021464; CF=H(3)C(2)NO 36
+
+################################################################################
+Column: comment[file uri]
+################################################################################
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/02/PXD017035/d5_48_hTT_I.raw 15
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA380.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA381.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA382.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA383.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA384.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA385.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA386.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA387.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA388.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA389.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA390.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2020/05/PXD014145/MFA391.raw 11
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr01.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr02.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr03.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr04.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr05.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr06.raw 10
+https://ftp.pride.ebi.ac.uk/pride/data/archive/2019/11/PXD014557/GMSFHH_human_microd_20171123_400ug_IPG3-10_fr07.raw 10
+
+################################################################################
+Column: TechnicalReplicate
+################################################################################
+1                                        30407
+2                                        2195
+3                                        945
+4                                        540
+5                                        156
+7                                        57
+8                                        50
+6                                        48
+9                                        23
+10                                       23
+11                                       21
+12                                       21
+13                                       20
+14                                       20
+15                                       20
+16                                       20
+not available                            14
+not applicable                           9
+
+################################################################################
+Column: BiologicalReplicate
+################################################################################
+1                                        29424
+2                                        3023
+3                                        810
+not available                            243
+Not Applicable                           136
+4                                        127
+5                                        112
+0                                        84
+7                                        56
+6                                        55
+not applicable                           48
+11                                       29
+15                                       28
+14                                       26
+17                                       26
+20                                       25
+8                                        24
+18                                       24
+19                                       24
+13                                       23
+
+################################################################################
+Column: FragmentMassTolerance
+################################################################################
+not available                            7566
+0.05 Da                                  4855
+20 ppm                                   4319
+0.5 m/z                                  4176
+0.02 Da                                  2373
+0.08 Da                                  2316
+0.5 Da                                   2101
+0.6 Da                                   1927
+4.5 ppm                                  1803
+600 ppm                                  1477
+10 ppm                                   480
+0.8 Da                                   201
+6 ppm                                    198
+0.5 da                                   136
+0.7 Da                                   83
+4.0 Da                                   69
+0.07 Da                                  40
+1 Da                                     30
+0.60 Da                                  27
+0.4 Da                                   25
+
+################################################################################
+Column: PrecursorMassTolerance
+################################################################################
+10 ppm                                   11315
+20 ppm                                   9911
+not available                            7275
+4.5 ppm                                  2777
+7 ppm                                    1549
+0.01 Da                                  480
+25 ppm                                   343
+5 ppm                                    195
+120 ppm                                  195
+6 ppm                                    133
+1 Da                                     30
+10ppm                                    4
+6  ppm                                   2
+
+################################################################################
+Column: Disease
+################################################################################
+not available                            5651
+squamous cell lung cancer                4292
+metastatic cutaneous melanoma            3600
+Normal                                   2841
+normal                                   2062
+melanoma                                 1826
+colorectal cancer                        1755
+obesity                                  1272
+stomach cancer                           1016
+leptomeningeal melanoma metastases       840
+Colon adenocarcinoma                     663
+trauma victims                           585
+colorectal adenocarcinoma                528
+malignant melanoma                       424
+Alzheimer's disease                      361
+uninfected                               324
+Alzheimer's Disease                      280
+dilated left atria                       252
+Rectum adenocarcinoma                    240
+Control                                  215
+
+################################################################################
+Column: Modification.1
+################################################################################
+NT=Oxidation;AC=UNIMOD:35;MT=Variable;TA=M 7777
+NT=Oxidation;MT=Variable;TA=M;AC=UNIMOD:35 4724
+NT=deamidated;AC=UNIMOD:7;TA=N,Q;MT=Variable 4167
+NT=Carbamidomethyl;TA=C;AC=UNIMOD:4;MT=fixed 4080
+NT=Carbamidomethyl;AC=UNIMOD:4;TA=C;MT=Fixed 2811
+NT=Oxidation;MT=variable;TA=M;AC=UNIMOD:35 2484
+NT=Acetyl;AC=UNIMOD:1;PP=PP=Any N-term;MT=Variable 1438
+NT=Oxidation;AC=UNIMOD:35;TA=M,W;MT=Variable 794
+NT=Acetyl;AC=UNIMOD:1;PP=Any N-term;MT=Variable 594
+NT=Acetyl;AC=UNIMOD:1;PP=Protein N-Term;MT=Variable 326
+NT=Oxidation; MT=Variable; TA=M;AC=UNIMOD:35 312
+NT=Acetyl;AC=UNIMOD:1;PP=Protein N-term;MT=Fixed 240
+AC=UNIMOD:4;NT=Carbamidomethyl;MT=Variable;TA=C 224
+AC=UNIMOD:4;NT=Carbamidomethyl;MT=Variable 208
+NT=oxidation;MT=variable;TA=M;AC=UNIMOD:35 186
+NT=Oxidation;TA=M;AC=UNIMOD:35;MT=Variable 147
+NT=Gln->pyro-Glu;AC=Unimod:28;MT=Variable;PP=Protein N-term;TA=Q 142
+NT=TMT6plex;AC=UNIMOD:737;TA=K;MT=Variable 132
+NT=Deamidated;TA=N,Q;AC=UNIMOD:7;MT=variable 120
+NT=Oxidation;TA=M;AC=UNIMOD:35;MT=variable 98
+
+################################################################################
+Column: OrganismPart
+################################################################################
+blood plasma                             4890
+lung                                     4652
+brain                                    2471
+Muscle                                   2316
+colorectal                               1755
+not available                            1751
+Heart                                    1703
+cerebrospinal fluid                      1091
+stomach                                  1088
+heart                                    882
+Brain                                    749
+colon                                    731
+B cells                                  560
+kidney                                   452
+tonsil                                   448
+middle temporal lobe, BA21 region        378
+breast                                   273
+liver                                    256
+Sigmoid Colon                            255
+Rectum                                   244
+
+################################################################################
+Column: Sex
+################################################################################
+not available                            18543
+male                                     5694
+female                                   3507
+Male                                     1556
+Female                                   1223
+not applicable                           1073
+F                                        142
+Not Applicable                           136
+anonymized                               36
+
+################################################################################
+Column: technology type
+################################################################################
+proteomic profiling by mass spectrometry 31864
+proteomic profiling by mass spectrometer 24
+not available                            15
+
+################################################################################
+Column: Age
+################################################################################
+not available                            21473
+not applicable                           905
+54Y                                      445
+23                                       360
+72Y                                      342
+78Y                                      315
+80Y                                      270
+43Y-60Y                                  252
+69Y                                      237
+79Y                                      236
+67Y                                      230
+64Y                                      220
+58Y                                      192
+70Y                                      177
+81Y                                      169
+31Y                                      164
+52Y                                      157
+65                                       137
+65Y                                      136
+Not Applicable                           136
